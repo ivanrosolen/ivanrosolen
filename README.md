@@ -2,7 +2,7 @@
 
 ###### Pronouns: He/him (Ele).
 
-I'm Software Engineer, currently working as Tech Manager at [Trybe](https://github.com/betrybe), delivering reliable and scalable software through people leadership and people growth.
+I'm Software Engineer, currently working as Tech Manager at [Trybe](trybe.com.br), delivering reliable and scalable software through people leadership and people growth.
 
 <a href="https://twitter.com/ivanrosolen">
   <img align="center" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white" />
